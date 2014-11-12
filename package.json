@@ -4,8 +4,7 @@
   "description": "Modular-JS ==========",
   "main": "server.js",
   "scripts": {
-    "test": "test",
-    "start": "node server.js"
+    "test": "node_modules/grunt-cli/bin/grunt test"
   },
   "repository": {
     "type": "git",
