@@ -1,3 +1,4 @@
+![alt](https://travis-ci.org/simon-kim/Modular-JS.svg)
 Modular-JS
 ==========
 
